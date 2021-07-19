@@ -1,0 +1,17 @@
+com/nexus/MainActivity.java
+ com.nexus.MainActivity
+ com.nexus.MainActivity$1
+com/nexus/MainApplication.java
+ com.nexus.MainApplication
+ com.nexus.MainApplication$1
+com/nexus/BuildConfig.java
+ com.nexus.BuildConfig
+com/nexus/generated/BasePackageList.java
+ com.nexus.generated.BasePackageList
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/nexus/ReactNativeFlipper.java
+ com.nexus.ReactNativeFlipper
+ com.nexus.ReactNativeFlipper$1
+ com.nexus.ReactNativeFlipper$2
+ com.nexus.ReactNativeFlipper$2$1

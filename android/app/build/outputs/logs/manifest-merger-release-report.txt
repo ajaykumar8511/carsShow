@@ -1,0 +1,430 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+MERGED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-splash-screen] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\lenovo\.gradle\caches\transforms-3\0bfe5a337810b65803a29f3977c90add\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a8afa75ba36a884751b261ed379b805\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\e1897a1e253522328c759013e7019896\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f46fba36425fb98d442241ec9a7fbcb3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-application] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-image-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-structured-headers] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-app-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lenovo\.gradle\caches\transforms-3\8ea2a7952ff27797ddfc43dbf73631d0\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-reanimated\android\build\.transforms\4e0658faf083fb0f645fb5ab59fd800e\transformed\jetified-react-native-reanimated-63\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bf53105e9a076c4946a78e7331df5e95\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\c810a29ee9cc32eddbe9f435a5d40943\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f1c35f01de549147d8c1974ed05d624a\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23cbdc071c5e178d194015ab069f2cc6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\211b2ebfe6ee946f964d6c5a5cf2ad1f\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1ab95c2af452e0ed8a0a77cbc0e17ed3\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ce84747f5ba5abf750c188f46e1d8f24\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\860b7a811be905f2c39f18d06a39335e\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\08ffee4c8e4c1b0f6be522db5365db2e\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\50a361236f03f1c26f3bb5fa40a5c5eb\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\6627ae2d52dde97c074aba46cb75b36e\transformed\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fa1dfb591991014b6098e97964884ba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d825dc28ced6d2add3b7b4bdd91b4dce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\84d03a2723473e1f02df2d90e22d814b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\aca5944157df1bbe7bc1cd1303a1cedc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\lenovo\.gradle\caches\transforms-3\78a999a105d2b16991ce1357e011a460\transformed\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\0f840d1b6c086351251f9cab8cdcba4e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\210ec31f9cd484f47c4cf6a405d863ea\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fb991958c05710728d127d1e553e1f4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\da6812d958f14071f03b52cabd866e66\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\489ea3a3aa6e560af96c4ce3349d7f8a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23c53202d62dc9716c39bb0465ffc033\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\044468790d48474a1300da7df3e9988b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6b92f48cdf825923678084ade1c8f0a8\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5899eac6482b60e515065f51cc6a42e8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\5a5c9211f2d7ae9e2623ff42f7580a33\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe78d862f7f4edef49bc8a4e161c766f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\dc471c519b4fd3c7c5cfaf8702ad1aa2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\f030c12a289332b0ae5be8ca9f0b39c1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\53316ead3e5b35b21858026c2a741677\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23d2e0ec640ac0f1217dd532b81cc98e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\2e0b3ab42374ec9a803f9b198c2c72a5\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\7f5e5771cd039620ec1bf7a3c6dead65\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\00c6a24e62cd70720a1d5bedd6736c1c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\538c5c7b9fac589d5ef7b084f97cec32\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4cba829edc3abee94e7cdc17e63c0d6a\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7db69bb020a3aa89f3a40f9115464e4e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\da8d32a723a57d7f621ffc33180a676c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ab1ac1cd71421dec398659e7de33743b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\249132fed5aa31eb1f237e4d0af8cc62\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d4f414b960c6992b6833809e2dd6d330\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b93fea1c3eb82369cb4bc669a72e683\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7cd47049c059e6bbffb75e8c09dda45e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d161065ff880294457e7afa46b5fca1f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\4e6fc859be2d2642ff016e270213fd02\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bfb925a991d9ae86d9528c42a223bc09\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:70-89
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:1-38:12
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:3:3-64
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:5:3-75
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:5:20-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:6:3-72
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:6:20-70
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:7:20-61
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:8:20-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:10:3-77
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:10:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:11:3-78
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:11:20-76
+application
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:13:3-37:17
+MERGED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\lenovo\.gradle\caches\transforms-3\0bfe5a337810b65803a29f3977c90add\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\lenovo\.gradle\caches\transforms-3\0bfe5a337810b65803a29f3977c90add\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-27:19
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-27:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bf53105e9a076c4946a78e7331df5e95\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bf53105e9a076c4946a78e7331df5e95\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\50a361236f03f1c26f3bb5fa40a5c5eb\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\50a361236f03f1c26f3bb5fa40a5c5eb\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\6627ae2d52dde97c074aba46cb75b36e\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\6627ae2d52dde97c074aba46cb75b36e\transformed\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\da6812d958f14071f03b52cabd866e66\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\da6812d958f14071f03b52cabd866e66\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\00c6a24e62cd70720a1d5bedd6736c1c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\00c6a24e62cd70720a1d5bedd6736c1c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:15:5-37
+	android:roundIcon
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:17:5-50
+	android:icon
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:16:5-39
+	android:allowBackup
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:18:5-32
+	android:theme
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:19:5-36
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:14:5-36
+meta-data#expo.modules.updates.EXPO_UPDATE_URL
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:21:5-103
+	android:value
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:21:68-101
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:21:16-67
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:22:5-112
+	android:value
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:22:69-110
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:22:16-68
+activity#com.nexus.MainActivity
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:23:5-35:16
+	android:label
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:25:7-39
+	android:launchMode
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:27:7-38
+	android:windowSoftInputMode
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:28:7-49
+	android:configChanges
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:26:7-84
+	android:theme
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:29:7-52
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:24:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:31:7-34:23
+action#android.intent.action.MAIN
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:32:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:33:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml:36:15-79
+uses-sdk
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+MERGED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-splash-screen\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\lenovo\.gradle\caches\transforms-3\0bfe5a337810b65803a29f3977c90add\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] C:\Users\lenovo\.gradle\caches\transforms-3\0bfe5a337810b65803a29f3977c90add\transformed\jetified-react-native-0.63.4\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a8afa75ba36a884751b261ed379b805\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\4a8afa75ba36a884751b261ed379b805\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\e1897a1e253522328c759013e7019896\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\e1897a1e253522328c759013e7019896\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f46fba36425fb98d442241ec9a7fbcb3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f46fba36425fb98d442241ec9a7fbcb3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:expo-application] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-application] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-application\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-constants\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-error-recovery\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-font\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-image-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-structured-headers\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-app-loader\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lenovo\.gradle\caches\transforms-3\8ea2a7952ff27797ddfc43dbf73631d0\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\lenovo\.gradle\caches\transforms-3\8ea2a7952ff27797ddfc43dbf73631d0\transformed\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-reanimated\android\build\.transforms\4e0658faf083fb0f645fb5ab59fd800e\transformed\jetified-react-native-reanimated-63\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\react-native-reanimated\android\build\.transforms\4e0658faf083fb0f645fb5ab59fd800e\transformed\jetified-react-native-reanimated-63\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bf53105e9a076c4946a78e7331df5e95\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\bf53105e9a076c4946a78e7331df5e95\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\c810a29ee9cc32eddbe9f435a5d40943\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\c810a29ee9cc32eddbe9f435a5d40943\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f1c35f01de549147d8c1974ed05d624a\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\f1c35f01de549147d8c1974ed05d624a\transformed\jetified-fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23cbdc071c5e178d194015ab069f2cc6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23cbdc071c5e178d194015ab069f2cc6\transformed\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\211b2ebfe6ee946f964d6c5a5cf2ad1f\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\211b2ebfe6ee946f964d6c5a5cf2ad1f\transformed\jetified-drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1ab95c2af452e0ed8a0a77cbc0e17ed3\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\1ab95c2af452e0ed8a0a77cbc0e17ed3\transformed\jetified-nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ce84747f5ba5abf750c188f46e1d8f24\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ce84747f5ba5abf750c188f46e1d8f24\transformed\jetified-imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\860b7a811be905f2c39f18d06a39335e\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\860b7a811be905f2c39f18d06a39335e\transformed\jetified-nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\08ffee4c8e4c1b0f6be522db5365db2e\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\08ffee4c8e4c1b0f6be522db5365db2e\transformed\jetified-imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\50a361236f03f1c26f3bb5fa40a5c5eb\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\50a361236f03f1c26f3bb5fa40a5c5eb\transformed\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\6627ae2d52dde97c074aba46cb75b36e\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\6627ae2d52dde97c074aba46cb75b36e\transformed\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fa1dfb591991014b6098e97964884ba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fa1dfb591991014b6098e97964884ba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d825dc28ced6d2add3b7b4bdd91b4dce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\d825dc28ced6d2add3b7b4bdd91b4dce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\84d03a2723473e1f02df2d90e22d814b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\84d03a2723473e1f02df2d90e22d814b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\aca5944157df1bbe7bc1cd1303a1cedc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\aca5944157df1bbe7bc1cd1303a1cedc\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\lenovo\.gradle\caches\transforms-3\78a999a105d2b16991ce1357e011a460\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\lenovo\.gradle\caches\transforms-3\78a999a105d2b16991ce1357e011a460\transformed\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\0f840d1b6c086351251f9cab8cdcba4e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\0f840d1b6c086351251f9cab8cdcba4e\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\210ec31f9cd484f47c4cf6a405d863ea\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\210ec31f9cd484f47c4cf6a405d863ea\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fb991958c05710728d127d1e553e1f4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\8fb991958c05710728d127d1e553e1f4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\da6812d958f14071f03b52cabd866e66\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\lenovo\.gradle\caches\transforms-3\da6812d958f14071f03b52cabd866e66\transformed\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\489ea3a3aa6e560af96c4ce3349d7f8a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\489ea3a3aa6e560af96c4ce3349d7f8a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23c53202d62dc9716c39bb0465ffc033\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23c53202d62dc9716c39bb0465ffc033\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\044468790d48474a1300da7df3e9988b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\044468790d48474a1300da7df3e9988b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6b92f48cdf825923678084ade1c8f0a8\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\6b92f48cdf825923678084ade1c8f0a8\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5899eac6482b60e515065f51cc6a42e8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5899eac6482b60e515065f51cc6a42e8\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\5a5c9211f2d7ae9e2623ff42f7580a33\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\5a5c9211f2d7ae9e2623ff42f7580a33\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe78d862f7f4edef49bc8a4e161c766f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe78d862f7f4edef49bc8a4e161c766f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\dc471c519b4fd3c7c5cfaf8702ad1aa2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\dc471c519b4fd3c7c5cfaf8702ad1aa2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\f030c12a289332b0ae5be8ca9f0b39c1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\f030c12a289332b0ae5be8ca9f0b39c1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\53316ead3e5b35b21858026c2a741677\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\53316ead3e5b35b21858026c2a741677\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\lenovo\.gradle\caches\transforms-3\fe3cf0882eb40046447bd9893532f7c5\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23d2e0ec640ac0f1217dd532b81cc98e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\23d2e0ec640ac0f1217dd532b81cc98e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\2e0b3ab42374ec9a803f9b198c2c72a5\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\2e0b3ab42374ec9a803f9b198c2c72a5\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\7f5e5771cd039620ec1bf7a3c6dead65\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\lenovo\.gradle\caches\transforms-3\7f5e5771cd039620ec1bf7a3c6dead65\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\00c6a24e62cd70720a1d5bedd6736c1c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\00c6a24e62cd70720a1d5bedd6736c1c\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\538c5c7b9fac589d5ef7b084f97cec32\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\538c5c7b9fac589d5ef7b084f97cec32\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4cba829edc3abee94e7cdc17e63c0d6a\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\4cba829edc3abee94e7cdc17e63c0d6a\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7db69bb020a3aa89f3a40f9115464e4e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7db69bb020a3aa89f3a40f9115464e4e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\da8d32a723a57d7f621ffc33180a676c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\da8d32a723a57d7f621ffc33180a676c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ab1ac1cd71421dec398659e7de33743b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\ab1ac1cd71421dec398659e7de33743b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\249132fed5aa31eb1f237e4d0af8cc62\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\249132fed5aa31eb1f237e4d0af8cc62\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d4f414b960c6992b6833809e2dd6d330\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d4f414b960c6992b6833809e2dd6d330\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b93fea1c3eb82369cb4bc669a72e683\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\5b93fea1c3eb82369cb4bc669a72e683\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7cd47049c059e6bbffb75e8c09dda45e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\7cd47049c059e6bbffb75e8c09dda45e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d161065ff880294457e7afa46b5fca1f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\lenovo\.gradle\caches\transforms-3\d161065ff880294457e7afa46b5fca1f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\4e6fc859be2d2642ff016e270213fd02\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\4e6fc859be2d2642ff016e270213fd02\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bfb925a991d9ae86d9528c42a223bc09\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\bfb925a991d9ae86d9528c42a223bc09\transformed\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\android\app\src\main\AndroidManifest.xml
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:expo-updates] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:expo-updates] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-updates\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:22-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-74
+	android:exported
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-37
+	tools:replace
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-48
+	android:name
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:13-25:70
+	android:resource
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:17-67
+	android:name
+		ADDED from [:expo-file-system] D:\Study_Folder\ProjectsAndAllFiles\VSCode_Projects\02_MadebyMe\UI\React Native Project\nexus\nexus\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] C:\Users\lenovo\.gradle\caches\transforms-3\3b5db4b3b22ae452a34a6490900f58b2\transformed\room-runtime-2.1.0\AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\lenovo\.gradle\caches\transforms-3\fd84fea2ff42cd69ccbab44ef6d2bad8\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
